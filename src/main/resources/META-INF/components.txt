@@ -1,0 +1,2 @@
+org.xwiki.contrib.xdom.regex.Pattern
+org.xwiki.contrib.xdom.regex.PatternBuilder
