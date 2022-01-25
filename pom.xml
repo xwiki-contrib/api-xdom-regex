@@ -29,7 +29,7 @@
   </parent>
   <groupId>org.xwiki.contrib.xdom.regex</groupId>
   <artifactId>xwiki-xdom-regex-api</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>XDOM Regex API</name>
   <properties>
     <commons.version>12.10</commons.version>
@@ -38,7 +38,7 @@
     <connection>scm:git:git://github.com/xwiki-contrib/api-xdom-regex.git</connection>
     <developerConnection>scm:git:git@github.com:xwiki-contrib/api-xdom-regex.git</developerConnection>
     <url>https://github.com/xwiki-contrib/api-xdom-regex/tree/master</url>
-    <tag>xwiki-xdom-regex-api-1.0</tag>
+    <tag>HEAD</tag>
   </scm>
   <developers>
     <developer>
